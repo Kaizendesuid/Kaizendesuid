@@ -1,16 +1,51 @@
-## Hi there 👋
+## Hello World! I'am Kaizen 👋
 
-<!--
-**Kaizendesuid/Kaizendesuid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://cdn.nekohime.site/file/Tqm8PUc7.jpg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌸 About Me
+
+- 💻 Currently learning JavaScript & Node.js ecosystem
+- 🤖 Focused on building WhatsApp bots & Telegram bots
+- 🚀 Exploring automation, APIs, and backend logic
+- 📚 Always improving step by step (kaizen mindset 🔥)
+
+«「コードは芸術だ。」– Code is art.»
+
+---
+
+🧠 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,arduino,cpp&theme=light" />
+</p>
+
+- ⚡ JavaScript — main language for bot logic
+- 🌐 Node.js — backend & automation
+- 🤖 Bot Development — WhatsApp & Telegram
+- 🔧 Arduino & C++ — hardware + low-level logic
+
+---
+
+#### Study companion
+
+![chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+✦ Learning Tools
+
+- 🧠 ChatGPT — debugging, idea generation, coding help
+- 🔍 Gemini — research & alternative solutions
+- ✨ Claude — explanation & clean logic breakdown
+
+---
+
+🍃 Philosophy
+
+"Kaizen means continuous improvement — small steps every day lead to big results."
+
+---
+
+<p align="center">
+  <i>Made with ☕ + late night coding</i>
+</p>
