@@ -1,6 +1,6 @@
-Hello World! I'm Kaizen 👋
+## Hello World! I'am Kaizen 👋
 
-"Banner" (https://cdn.nekohime.site/file/Tqm8PUc7.jpg)
+![Banner](https://cdn.nekohime.site/file/Tqm8PUc7.jpg)
 
 ---
 
@@ -19,11 +19,12 @@ Hello World! I'm Kaizen 👋
 - 🐙 GitHub: [Kaizen](https://github.com/Kaizendesuid)
 
 ---
+
 🧠 Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,arduino,cpp&theme=light" />
-</p>✦ Tech Stack
+</p>
 
 - ⚡ JavaScript — main language for bot logic
 - 🌐 Node.js — backend & automation
@@ -32,11 +33,9 @@ Hello World! I'm Kaizen 👋
 
 ---
 
-🤖 Study Companion
+#### Study companion
 
-"chatgpt" (https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-"gemini" (https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-"claude" (https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ✦ Learning Tools
 
@@ -48,7 +47,7 @@ Hello World! I'm Kaizen 👋
 
 🍃 Philosophy
 
-«"Kaizen means continuous improvement — small steps every day lead to big results."»
+"Kaizen means continuous improvement — small steps every day lead to big results."
 
 ---
 
